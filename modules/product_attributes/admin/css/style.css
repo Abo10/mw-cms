@@ -1,0 +1,47 @@
+.attr_container .tab-pane{
+    border: none;
+    margin-top: 24px;
+}
+.attr_val_container{
+    margin-top: 40px;
+}
+.attr_val_container  .attr_val_container_1{
+    border: none;
+    margin-top: 24px;
+}
+.at776 {
+    display: inline-block;
+    background: #F9FAFC;
+    border: 1px solid #eee;
+    border-radius: 0px;
+    padding: 21px;
+    margin-left: 0px;
+    margin-top: 40px !important;
+    margin-bottom: 17px;
+    position: relative;
+}
+
+.at776 h3 {
+    margin: 0px 11px 0px 0px;
+    /* position: absolute; */
+    right: 16px;
+    top: 8px;
+    float: left;
+    color: #808080;
+}
+
+.at776 .post_leguig {
+    /* position: absolute !important; */
+    /* top: -87px; */
+}
+
+.at776 .form-group {
+    margin-top: 13px;
+}
+.row.at777 label {
+    font-size: 12px;
+    margin-top: 9px;
+}
+.fg55 {
+    padding-left: 6%;
+}

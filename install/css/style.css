@@ -1,0 +1,28 @@
+section.row.top_header {
+    background: #4C4C4C;
+    margin-bottom: 30px;
+}
+
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
+.col-sm-6.wc_msg img {
+    width: 151px;
+}
+
+.col-sm-6.wc_msg {
+    color: #fff;
+}
+
+ul.nav.nav-pills img {
+    width: 31px;
+}
+
+ul.nav.nav-pills a {
+    margin: 0px;
+    padding: 4px;
+}

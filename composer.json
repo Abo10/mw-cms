@@ -1,0 +1,14 @@
+{
+    "name": "abo/mastershop.local",
+    "authors": [
+        {
+            "name": "abo",
+            "email": "abo@mail.ru"
+        }
+    ],
+    "require": {
+      "abeautifulsite/simpleimage":"2.6.0",
+        "phpmailer/phpmailer": "^5.2"
+
+    }
+}
